@@ -43,7 +43,7 @@ public class WechatConfig {
                 "小猪同志", //咋称呼这个人
                 "广东省广州市天河区", //这个人的详细地址
                 "广", //这个人在的城市
-                new BirthDay(2002,01,19,true,false,"生日快乐哦~~"),
+                new BirthDay(2002,01,19,true,false,"生日快乐哦~~")
               
         ));
     }
